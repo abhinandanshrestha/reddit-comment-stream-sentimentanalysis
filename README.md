@@ -26,7 +26,4 @@ python producer.py
 python plotly-consumer.py
 
 ## Demo
-[<video controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>](https://github.com/abhinandanshrestha/reddit-comment-stream-sentimentanalysis/blob/master/demo.mp4)
+https://github.com/abhinandanshrestha/reddit-comment-stream-sentimentanalysis/blob/master/demo.mp4
