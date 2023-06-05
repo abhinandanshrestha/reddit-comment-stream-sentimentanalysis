@@ -26,4 +26,5 @@ python producer.py
 python plotly-consumer.py
 
 ## Demo
-https://github.com/abhinandanshrestha/reddit-comment-stream-sentimentanalysis/blob/master/demo.mp4
+[![Watch the video]](https://github.com/abhinandanshrestha/reddit-comment-stream-sentimentanalysis/blob/master/demo.mp4)
+
