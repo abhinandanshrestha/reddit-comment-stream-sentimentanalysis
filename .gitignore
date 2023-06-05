@@ -1,0 +1,5 @@
+__pycache__/
+kafka-env/
+consumer.ipynb
+index.py
+consumer.py
