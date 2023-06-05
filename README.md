@@ -24,3 +24,9 @@ python producer.py
 
 ### Step 8: Run Consumer code (Plotly dash Application)
 python plotly-consumer.py
+
+## Demo
+<video controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
