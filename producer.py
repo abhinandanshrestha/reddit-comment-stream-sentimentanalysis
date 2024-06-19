@@ -5,10 +5,16 @@ import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
 import json
 
-# Define your client_id and client_secret which you can get from the reddit website
-client_id='9ACztYkTytdx0z64gjmBOw'
-client_secret='BDBeV5g7YEDNCv-a7XdlmO1EZyHM4Q'
-user_agent='Test 1.0 by /u/abhinandanshrestha'
+import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Get the credentials from environment variables
+client_id = os.getenv('CLIENT_ID')
+client_secret = os.getenv('CLIENT_SECRET')
+user_agent = os.getenv('USER_AGENT')
 
 # Instantiate the object with your client_id and client_secret
 reddit = praw.Reddit(
