@@ -24,3 +24,7 @@ python producer.py
 
 ### Step 8: Run Consumer code (Plotly dash Application)
 python plotly-consumer.py
+
+## Demo
+[![Watch the video]](https://github.com/abhinandanshrestha/reddit-comment-stream-sentimentanalysis/blob/master/demo.mp4)
+
